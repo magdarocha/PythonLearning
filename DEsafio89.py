@@ -1,0 +1,2 @@
+#Criar um programa que leia o nome e duas notas de varios alunos e guardar numa lista composta.
+#No final mostrar um boletim contendo a media de cada um e permitir que o utilizador possa mostrar as nostas de cada aluno individualmente
